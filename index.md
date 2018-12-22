@@ -33,7 +33,7 @@ We may update our Privacy Policy at any time by giving notice to its Users on th
 
 ### Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
-Email: dawidwnukowskidev@yahoo.com
+Email: <dawidwnukowskidev@yahoo.com>
 
 <br>
 *Last update: 22 December 2018
