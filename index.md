@@ -1,8 +1,8 @@
 # Privacy Policy for Word Search
 
 <b>Dawid Wnukowski</b> („us”, „we” or „our”) operates the mobile application (the „Service”).
-This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service.
+<br>This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+<br>If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service.
 
 ### Information Collection and Use
 //TODO
@@ -17,10 +17,8 @@ We may use third-party service providers to show advertisements to you to help s
 We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
 We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
 The payment processors we work with are:
-    • Apple Store In-App Payments
-      Their Privacy Policy can be viewed at [Apple Privacy Policy](https://www.apple.com/legal/privacy/en-ww/)
-    • Google Play In-App Payments
-      Their Privacy Policy can be viewed at [Google Privacy Policy](https://www.google.com/policies/privacy/)
+<p>Apple Store In-App Payments, their Privacy Policy can be viewed at [Apple Privacy Policy](https://www.apple.com/legal/privacy/en-ww/)</p>
+<p>Google Play In-App Payments, their Privacy Policy can be viewed at [Google Privacy Policy](https://www.google.com/policies/privacy/)</p>
 
 ### Links to Other Sites
 Our Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
@@ -29,7 +27,7 @@ Our Service may contain links to other sites. If you click on a third-party link
 We do not knowingly collect personally identifiable information from anyone under the age of 16.
 
 ### Changes to This Privacy Policy
-We may update our Privacy Policy at any time by giving notice to its Users on this page and possibly within the Service and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom*. 
+We may update our Privacy Policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom*. 
 
 ### Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
