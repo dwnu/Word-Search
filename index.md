@@ -6,7 +6,7 @@
 
 ### Information Collection and Use
 We collect several different types of information for various purposes to provide and improve our Service to you. It mainly helps us to balance Service options like timer value or adjust a number of words in different modes. It can also help me found out what you (as a user) like or don't like in our Service.
-Collected data aren't saved on our servers but we share it with third-party services like Firebase analytics and AdMob. Their privacy policy is here - [Google Privacy Policy](https://policies.google.com/privacy). Other links that may be important to you: [How Google uses your data](https://policies.google.com/technologies/partner-sites) and [How to opt-out from AdMob])(https://support.google.com/ads/answer/2662922).
+Collected data aren't saved on our servers but we share it with third-party services like Firebase analytics and AdMob. Their privacy policy is here - [Google Privacy Policy](https://policies.google.com/privacy). Other links that may be important to you: [How Google uses your data](https://policies.google.com/technologies/partner-sites) and [How to opt-out from AdMob](https://support.google.com/ads/answer/2662922).
 Gathered data may include, but maybe not limited to: country, device model, device system, when was app opened, given consent information, what screen did user visit, what element user clicked, did user finished game successfully.
 
 ### Security
@@ -19,9 +19,9 @@ We may use third-party service providers to show advertisements to you to help s
 We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
 We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
 The payment processors we work with are:
-<p>Apple Store In-App Payments, their Privacy Policy can be viewed at [Apple privacy Policy](https://www.apple.com/legal/privacy/en-ww)</p>
-<p>Google Play In-App Payments, their Privacy Policy can be viewed at 
-[Google Privacy Policy](https://policies.google.com/privacy)</p>
+<br>Apple Store In-App Payments, their Privacy Policy can be viewed at [Apple privacy Policy](https://www.apple.com/legal/privacy/en-ww)
+<br>Google Play In-App Payments, their Privacy Policy can be viewed at 
+[Google Privacy Policy](https://policies.google.com/privacy)
 
 ### Links to Other Sites
 Our Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
@@ -37,4 +37,4 @@ If you have any questions or suggestions about our Privacy Policy, do not hesita
 Email: <dawidwnukowskidev@yahoo.com>
 
 <br>
-*Last update: 22 December 2018
+*Last update: 23 December 2018
