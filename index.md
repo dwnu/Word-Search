@@ -19,7 +19,7 @@ We may use third-party service providers to show advertisements to you to help s
 We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
 We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
 The payment processors we work with are:
-<br>Apple Store In-App Payments, their Privacy Policy can be viewed at [Apple privacy Policy](https://www.apple.com/legal/privacy/en-ww)
+<br>Apple Store In-App Payments, their Privacy Policy can be viewed at [Apple Privacy Policy](https://www.apple.com/legal/privacy/en-ww)
 <br>Google Play In-App Payments, their Privacy Policy can be viewed at 
 [Google Privacy Policy](https://policies.google.com/privacy)
 
