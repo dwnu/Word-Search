@@ -6,8 +6,8 @@
 
 ### Information Collection and Use
 We collect several different types of information for various purposes to provide and improve our Service to you. It mainly helps us to balance Service options like timer value or adjust a number of words in different modes. It can also help me found out what you (as a user) like or don't like in our Service.
-Collected data aren't saved on our servers but we share it with third-party services like Firebase analytics and AdMob. Their privacy policy is here - [Google Privacy Policy](https://policies.google.com/privacy). Other links that may be important to you: [How Google uses your data](https://policies.google.com/technologies/partner-sites) and [How to opt-out from AdMob](https://support.google.com/ads/answer/2662922).
-Gathered data may include, but maybe not limited to: country, device model, device system, when was app opened, given consent information, what screen did user visit, what element user clicked, did user finished game successfully. Shared data can also include personally identifiable information like 'ip address', 'advertising id', details about apllication crashes and in the further development of Service, it may include 'push notification id'.
+Collected data aren't saved on our servers but we share it with third-party services like Firebase analytics, AdMob and Flurry. Their privacy policy is here - [Google Privacy Policy](https://policies.google.com/privacy) and [Flurry Privacy Policy](https://policies.oath.com/us/en/oath/privacy/index.html). Other links that may be important to you: [How Google uses your data](https://policies.google.com/technologies/partner-sites) and [How to opt-out from AdMob](https://support.google.com/ads/answer/2662922).
+Gathered data include, but is not limited to: country, device model, device system, when was app opened, what screen did user visit, what element user clicked, did user finished game successfully. Shared data can also include personally identifiable information like 'device id', 'ip address', 'advertising id' and details about apllication crashes.
 
 ### Security
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
@@ -37,4 +37,4 @@ If you have any questions or suggestions about our Privacy Policy or Service, do
 Email: <dawidwnukowskidev@yahoo.com>
 
 <br>
-*Last update: 27 December 2018
+*Last update: 26 August 2019
