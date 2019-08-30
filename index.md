@@ -1,4 +1,11 @@
-# Privacy Policy for Word Search
+---
+redirect_to: https://dawidwnukowski.com/word-search-privacy-policy/
+---
+
+# Visit https://dawidwnukowski.com/word-search-privacy-policy/ for current privacy policy
+
+## Deprecated
+## Privacy Policy for Word Search
 
 <b>Dawid Wnukowski</b> („us”, „we” or „our”) operates the mobile application (the „Service”).
 <br>This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
